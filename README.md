@@ -68,6 +68,8 @@ You are its pilot. There is no chain of command. No allies. No fallback. Just yo
 
 ---
 
+## 🔧 Tools & Libraries Used
+
 | Tool / Library | Purpose                                                                 |
 |----------------|-------------------------------------------------------------------------|
 | **Python**     | Core programming language                                               |
