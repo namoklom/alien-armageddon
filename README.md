@@ -1,12 +1,16 @@
 # 👾 Alien Invasion: Armageddon
 
-> A cinematic, adrenaline-fueled 2D space shooter powered by Python and Pygame. Survive wave after wave of multidimensional alien attackers with adaptive AI and elite combat roles.
+## 👤 Author
 
----
+| Name            | Role              | LinkedIn                                      |
+|-----------------|-------------------|-----------------------------------------------|
+| Jason Emmanuel  | Game Developer    | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 
-## 🧠 Project Overview
+**Alien Invasion: Armageddon** is a high-difficulty, object-oriented 2D space shooter designed for advanced Python developers, game enthusiasts, and AI simulation hobbyists. Built with Pygame, it demonstrates how complex gameplay mechanics, enemy intelligence, and modular code architecture can come together to form a polished and replayable arcade experience.
 
-**Alien Invasion: Armageddon** is a high-difficulty, fully object-oriented game designed for **advanced Python developers**, **game enthusiasts**, and **AI simulation hobbyists**. It goes beyond the basics to introduce intelligent enemy behavior, powerups, and a full particle-based visual system. This is not your typical space shooter—this is *Armageddon*.
+Unlike beginner-level shooter games, this project features distinct alien behaviors, including healing support units, tank-like enemies with polygonal bodies, and swarm attackers. It incorporates dynamic wave progression, power-up mechanics, and particle-based explosion effects that create a visually engaging and mechanically challenging environment.
+
+The game’s structure is built around clear object-oriented principles, making it easy to expand or customize. With logging tools, a dynamic difficulty curve, and a focus on responsiveness and feedback, *Armageddon* provides both an exciting gameplay experience and a strong foundation for learning advanced game development in Python.
 
 ---
 
@@ -41,13 +45,28 @@
 
 ## 📜 Backstory
 
-> **Year: 2471**  
-> A catastrophic quantum experiment tears open a portal to the dimension of the Nezrion.  
-> From the breach pour the Horde—intelligent, aggressive, and growing stronger by the second.  
->
-> Earth's defense fleet is annihilated in minutes. The last surviving starfighter, **Aegis-X**, piloted by you, is all that remains.  
->
-> **Survive the onslaught. Protect the world. Or watch everything burn.**
+**Year: 2471**  
+In the heart of the Helion Research Colony, a team of Earth’s most brilliant quantum physicists pushes the boundaries of spacetime. Their objective: unlock interdimensional energy to save a collapsing planet ravaged by centuries of war, pollution, and dwindling resources.
+
+But the experiment goes horribly wrong.
+
+Instead of clean energy, it tears open a rift—a shimmering portal to an alien dimension known as **The Nezrion Expanse**. From it emerge horrifying beings unlike any in recorded history. Creatures of sleek biology and synthetic enhancements, they call themselves the **Nezrion Horde**.
+
+At first, they scout. Then, they swarm.
+
+The Horde descends upon Earth’s defense fleet with merciless precision. Cities fall within hours. Orbital stations go dark. The last bastion of hope, **Fleet Command Omega**, sends out a desperate distress signal. But help will never come.
+
+Amid the ruins, one ship remains: the **Aegis-X**, an experimental starfighter equipped with prototype weapons and maneuvering thrusters. Its systems were offline during the assault—spared by accident, or perhaps fate.
+
+You are the pilot of that ship.
+
+With no reinforcements, no command structure, and no margin for error, you alone must hold the line. Survive wave after wave of increasingly intelligent Nezrion forces—from the standard drones known as **Zarnak**, to the regenerative **Fardumun**, and the armored behemoth **Vorgulax**.
+
+The breach is growing. The Nezrion are learning. And time is running out.
+
+**Survive. Adapt. Overcome.**
+
+Humanity’s fate rests on your trigger finger.
 
 ---
 
