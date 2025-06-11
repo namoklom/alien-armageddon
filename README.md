@@ -79,18 +79,16 @@ The future of humanity rests on your trigger finger.
 
 ---
 
-## 🔧 Tools & Libraries Used
-
-| Tool / Library     | Version       | Purpose                                                                 |
-|--------------------|---------------|-------------------------------------------------------------------------|
-| **Python**         | 3.7+          | Core programming language                                               |
-| **Pygame**         | ≥ 2.1.0       | 2D game engine used for rendering, input, sound, and main game loop     |
-| **logging (builtin)** | -         | Wave tracking and debugging logs saved in `/logs/`                     |
-| **math (builtin)** | -             | Trigonometry functions for angles, directions, and vector math         |
-| **random (builtin)** | -           | Randomized enemy behavior, spawn locations, power-up selection         |
-| **datetime (builtin)** | -        | Timestamped log filenames                                              |
-| **os (builtin)**   | -             | Directory creation for logs                                            |
-| **sys (builtin)**  | -             | Graceful system exit after quitting the game                           |
+| Tool / Library | Purpose                                                                 |
+|----------------|-------------------------------------------------------------------------|
+| **Python**     | Core programming language                                               |
+| **Pygame**     | 2D game engine used for rendering, input, sound, and main game loop     |
+| **logging**    | Wave tracking and debugging logs saved in `/logs/`                      |
+| **math**       | Trigonometry functions for angles, directions, and vector math          |
+| **random**     | Randomized enemy behavior, spawn locations, power-up selection          |
+| **datetime**   | Timestamped log filenames                                               |
+| **os**         | Directory creation for logs                                             |
+| **sys**        | Graceful system exit after quitting the game                            |
 
 ---
 
