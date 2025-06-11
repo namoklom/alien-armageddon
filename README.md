@@ -65,7 +65,6 @@ You are its pilot. There is no chain of command. No allies. No fallback. Just yo
 | `↑`          | Apply thrust             |
 | `SPACE`      | Fire weapon              |
 | `R`          | Restart after defeat     |
-| `ESC / QUIT` | Exit game                |
 
 ---
 
