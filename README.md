@@ -45,25 +45,15 @@ The game’s structure is built around clear object-oriented principles, making 
 
 ## 📜 Backstory
 
-**Year: 2471**  
-In the heart of the Helion Research Colony, a team of Earth’s most brilliant quantum physicists pushes the boundaries of spacetime. Their mission is bold: to harness interdimensional energy and save a collapsing Earth, devastated by centuries of war, ecological collapse, and vanishing resources.
+In the year 2471, nestled deep within the Helion Research Colony, Earth’s most brilliant quantum physicists embarked on a last-ditch mission to save a dying world. Decades of climate collapse, endless warfare, and the depletion of planetary resources had pushed civilization to the brink. Their goal was audacious—tap into the fabric of spacetime to draw clean, interdimensional energy from parallel universes. For a brief moment, hope flickered. The equations worked. The prototype activated. But instead of salvation, the project tore open a shimmering rift to an unknown dimension later designated as the Nezrion Expanse.
 
-But their greatest breakthrough becomes their greatest mistake.
+From this breach came not energy, but a silent invasion. The first signs were subtle: malfunctioning satellites, lost deep-space drones, and ghost signals from beyond the stars. What followed was swift and catastrophic. Sleek, biomechanical beings poured through the rift—fused organisms enhanced with cold, synthetic augmentation. They were not explorers or diplomats. They were conquerors. They were the Nezrion Horde.
 
-The experiment backfires, tearing open a shimmering portal to an unknown alien dimension: **The Nezrion Expanse**. From this rift emerge creatures never before seen, beings of sleek organic tissue fused with cold, synthetic augmentations. They are not explorers. They are the **Nezrion Horde**.
+Within mere hours of full breach activation, Earth's orbital defenses were annihilated. The coordinated attack crippled communication arrays, disrupted artificial intelligence networks, and unleashed electromagnetic storms that rendered planetary defense grids useless. Major cities were flattened. The Moon colonies went dark. Mars outposts, once humanity’s beacon of expansion, fell completely silent. Fleet Command Omega, Earth's final military bastion, issued a distress signal that looped into the void, unanswered.
 
-The invasion begins subtly, covert probes, strange signals, minor disappearances. Then, without warning, the swarm arrives. Earth's orbital defense fleet is wiped out in hours. Metropolises are leveled. Communication with the Moon colonies and Mars outposts ceases. The last known Earth defense station, **Fleet Command Omega**, sends out a final distress beacon before going silent.
+Amidst the devastation, one ship survived—buried deep in a hangar beneath the Helion base. The Aegis-X, a prototype starfighter equipped with experimental weapons and high-precision maneuvering thrusters, had been offline for maintenance when the first EMP wave struck. By sheer chance—or fate—it escaped destruction. Now, reawakened in silence and surrounded by ruin, it stands as Earth’s last hope.
 
-Amid the ashes and silence, a single ship reactivates: the **Aegis-X**. A prototype starfighter equipped with experimental weaponry and deep-space maneuvering systems. Its systems had been powered down for diagnostics, sparing it from the EMP storms triggered by the initial attack.
-
-You are its pilot.
-
-With no reinforcements coming and no command structure left, you are Earth's last line of defense. Armed only with your reflexes, your instincts, and an evolving arsenal, you must face wave after wave of increasingly coordinated alien forces.
-
-The Nezrion adapt quickly. From the fast and vicious **Zarnak** drones to the regenerative green **Fardumun** healers and the massive, armor-plated **Vorgulax**, they grow stronger with each wave. The breach is expanding. The enemy is learning. Time is running out.
-
-**Survive. Adapt. Overcome.**  
-The future of humanity rests on your trigger finger.
+You are its pilot. There is no chain of command. No allies. No fallback. Just you, your instincts, and the Aegis-X against an alien force that is not only intelligent, but adaptive. The Nezrion are evolving with each wave.
 
 ---
 
