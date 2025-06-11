@@ -60,29 +60,22 @@ The game’s structure is built around clear object-oriented principles, making 
 - **Healing Visuals**  
   - Green "➕" particles appear when Fardumun heals other enemies.
 
----
-
 ### 🎯 Difficulty Scaling
 
 - **Wave-Based Progression**  
   - Each wave introduces more enemies with increased strength.  
   - Wave data is automatically logged for debugging and tracking.
-
----
-
+  
 ### 📊 UI & Status Display
 
 - Score Counter  
 - Current Wave Indicator  
 - Dynamic Health Bar
 
----
-
 ### 🧾 Logging System
 
 - Logs game progress and wave data to a `/logs/` directory.  
 - Includes timestamps and detailed debug info per wave.
-
 
 ---
 
