@@ -1,4 +1,4 @@
-# Alien Invasion: Armageddon (Alien Invasion: Armageddon (OOP Space Shooter with AI Alien Roles and Wave-Based Pygame Combat)
+# Alien Invasion: Armageddon (OOP Space Shooter with AI Alien Roles and Wave-Based Pygame Combat)
 
 ## 👤 Author
 
