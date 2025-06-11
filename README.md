@@ -46,13 +46,13 @@ The game’s structure is built around clear object-oriented principles, making 
 ## 📜 Backstory
 
 **Year: 2471**  
-In the heart of the Helion Research Colony, a team of Earth’s most brilliant quantum physicists pushes the boundaries of spacetime. Their mission is bold: to harness interdimensional energy and save a collapsing Earth—devastated by centuries of war, ecological collapse, and vanishing resources.
+In the heart of the Helion Research Colony, a team of Earth’s most brilliant quantum physicists pushes the boundaries of spacetime. Their mission is bold: to harness interdimensional energy and save a collapsing Earth, devastated by centuries of war, ecological collapse, and vanishing resources.
 
 But their greatest breakthrough becomes their greatest mistake.
 
-The experiment backfires, tearing open a shimmering portal to an unknown alien dimension: **The Nezrion Expanse**. From this rift emerge creatures never before seen—beings of sleek organic tissue fused with cold, synthetic augmentations. They are not explorers. They are the **Nezrion Horde**.
+The experiment backfires, tearing open a shimmering portal to an unknown alien dimension: **The Nezrion Expanse**. From this rift emerge creatures never before seen, beings of sleek organic tissue fused with cold, synthetic augmentations. They are not explorers. They are the **Nezrion Horde**.
 
-The invasion begins subtly—covert probes, strange signals, minor disappearances. Then, without warning, the swarm arrives. Earth's orbital defense fleet is wiped out in hours. Metropolises are leveled. Communication with the Moon colonies and Mars outposts ceases. The last known Earth defense station, **Fleet Command Omega**, sends out a final distress beacon before going silent.
+The invasion begins subtly, covert probes, strange signals, minor disappearances. Then, without warning, the swarm arrives. Earth's orbital defense fleet is wiped out in hours. Metropolises are leveled. Communication with the Moon colonies and Mars outposts ceases. The last known Earth defense station, **Fleet Command Omega**, sends out a final distress beacon before going silent.
 
 Amid the ashes and silence, a single ship reactivates: the **Aegis-X**. A prototype starfighter equipped with experimental weaponry and deep-space maneuvering systems. Its systems had been powered down for diagnostics, sparing it from the EMP storms triggered by the initial attack.
 
