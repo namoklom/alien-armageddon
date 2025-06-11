@@ -52,13 +52,13 @@ The game’s structure is built around clear object-oriented principles, making 
 
 ---
 
-### 💥 Visual & Audio Effects
+### 💥 Visual Effects
 
 - **Explosions**  
   - Particle-based effects simulate alien deaths and collisions in real-time.
 
 - **Healing Visuals**  
-  - Green "➕" particles appear when Fardumun heals other enemies.
+  - Green "+" particles appear when Fardumun heals other enemies.
 
 ### 🎯 Difficulty Scaling
 
