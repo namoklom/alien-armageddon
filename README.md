@@ -46,27 +46,24 @@ The game’s structure is built around clear object-oriented principles, making 
 ## 📜 Backstory
 
 **Year: 2471**  
-In the heart of the Helion Research Colony, a team of Earth’s most brilliant quantum physicists pushes the boundaries of spacetime. Their objective: unlock interdimensional energy to save a collapsing planet ravaged by centuries of war, pollution, and dwindling resources.
+In the heart of the Helion Research Colony, a team of Earth’s most brilliant quantum physicists pushes the boundaries of spacetime. Their mission is bold: to harness interdimensional energy and save a collapsing Earth—devastated by centuries of war, ecological collapse, and vanishing resources.
 
-But the experiment goes horribly wrong.
+But their greatest breakthrough becomes their greatest mistake.
 
-Instead of clean energy, it tears open a rift—a shimmering portal to an alien dimension known as **The Nezrion Expanse**. From it emerge horrifying beings unlike any in recorded history. Creatures of sleek biology and synthetic enhancements, they call themselves the **Nezrion Horde**.
+The experiment backfires, tearing open a shimmering portal to an unknown alien dimension: **The Nezrion Expanse**. From this rift emerge creatures never before seen—beings of sleek organic tissue fused with cold, synthetic augmentations. They are not explorers. They are the **Nezrion Horde**.
 
-At first, they scout. Then, they swarm.
+The invasion begins subtly—covert probes, strange signals, minor disappearances. Then, without warning, the swarm arrives. Earth's orbital defense fleet is wiped out in hours. Metropolises are leveled. Communication with the Moon colonies and Mars outposts ceases. The last known Earth defense station, **Fleet Command Omega**, sends out a final distress beacon before going silent.
 
-The Horde descends upon Earth’s defense fleet with merciless precision. Cities fall within hours. Orbital stations go dark. The last bastion of hope, **Fleet Command Omega**, sends out a desperate distress signal. But help will never come.
+Amid the ashes and silence, a single ship reactivates: the **Aegis-X**. A prototype starfighter equipped with experimental weaponry and deep-space maneuvering systems. Its systems had been powered down for diagnostics, sparing it from the EMP storms triggered by the initial attack.
 
-Amid the ruins, one ship remains: the **Aegis-X**, an experimental starfighter equipped with prototype weapons and maneuvering thrusters. Its systems were offline during the assault—spared by accident, or perhaps fate.
+You are its pilot.
 
-You are the pilot of that ship.
+With no reinforcements coming and no command structure left, you are Earth's last line of defense. Armed only with your reflexes, your instincts, and an evolving arsenal, you must face wave after wave of increasingly coordinated alien forces.
 
-With no reinforcements, no command structure, and no margin for error, you alone must hold the line. Survive wave after wave of increasingly intelligent Nezrion forces—from the standard drones known as **Zarnak**, to the regenerative **Fardumun**, and the armored behemoth **Vorgulax**.
+The Nezrion adapt quickly. From the fast and vicious **Zarnak** drones to the regenerative green **Fardumun** healers and the massive, armor-plated **Vorgulax**, they grow stronger with each wave. The breach is expanding. The enemy is learning. Time is running out.
 
-The breach is growing. The Nezrion are learning. And time is running out.
-
-**Survive. Adapt. Overcome.**
-
-Humanity’s fate rests on your trigger finger.
+**Survive. Adapt. Overcome.**  
+The future of humanity rests on your trigger finger.
 
 ---
 
