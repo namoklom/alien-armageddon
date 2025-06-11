@@ -34,7 +34,7 @@ The game’s structure is built around clear object-oriented principles, making 
 - **🟩 Fardumun (Healer Alien)**  
   - Shape: Green Circle  
   - Behavior: Emits green healing pulses to regenerate nearby enemy health.  
-  - Visuals: Displays unique green "➕" signs when healing is triggered.
+  - Visuals: Displays unique green "+" signs when healing is triggered.
 
 - **🟪 Vorgulax (Tank Alien)**  
   - Shape: Magenta Polygon  
