@@ -1,4 +1,4 @@
-# 👾 Alien Invasion: Armageddon
+# Alien Invasion: Armageddon (Alien Invasion: Armageddon (OOP Space Shooter with AI Alien Roles and Wave-Based Pygame Combat)
 
 ## 👤 Author
 
@@ -25,8 +25,6 @@ The game’s structure is built around clear object-oriented principles, making 
 - **Physics-Based Movement**  
   Ships and enemies follow inertia-based motion with friction and drag for a smooth arcade feel.
 
----
-
 ### 👾 Alien Types & Behaviors
 
 - **🟥 Sinib (Attacker Alien)**  
@@ -41,8 +39,6 @@ The game’s structure is built around clear object-oriented principles, making 
 - **🟪 Vorgulax (Tank Alien)**  
   - Shape: Magenta Polygon  
   - Behavior: Brute alien with reinforced health; absorbs heavy damage.
-
----
 
 ### 🔫 Weapon & Power-Up Systems
 
