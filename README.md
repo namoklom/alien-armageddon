@@ -45,13 +45,13 @@ The game’s structure is built around clear object-oriented principles, making 
 
 ## 📜 Backstory
 
-In the year 2471, nestled deep within the Helion Research Colony, Earth’s most brilliant quantum physicists embarked on a last-ditch mission to save a dying world. Decades of climate collapse, endless warfare, and the depletion of planetary resources had pushed civilization to the brink. Their goal was audacious—tap into the fabric of spacetime to draw clean, interdimensional energy from parallel universes. For a brief moment, hope flickered. The equations worked. The prototype activated. But instead of salvation, the project tore open a shimmering rift to an unknown dimension later designated as the Nezrion Expanse.
+In the year 2471, nestled deep within the Helion Research Colony, Earth’s most brilliant quantum physicists embarked on a last-ditch mission to save a dying world. Decades of climate collapse, endless warfare, and the depletion of planetary resources had pushed civilization to the brink. Their goal was audacious, tap into the fabric of spacetime to draw clean, interdimensional energy from parallel universes. For a brief moment, hope flickered. The equations worked. The prototype activated. But instead of salvation, the project tore open a shimmering rift to an unknown dimension later designated as the Nezrion Expanse.
 
-From this breach came not energy, but a silent invasion. The first signs were subtle: malfunctioning satellites, lost deep-space drones, and ghost signals from beyond the stars. What followed was swift and catastrophic. Sleek, biomechanical beings poured through the rift—fused organisms enhanced with cold, synthetic augmentation. They were not explorers or diplomats. They were conquerors. They were the Nezrion Horde.
+From this breach came not energy, but a silent invasion. The first signs were subtle: malfunctioning satellites, lost deep-space drones, and ghost signals from beyond the stars. What followed was swift and catastrophic. Sleek, biomechanical beings poured through the rift, fused organisms enhanced with cold, synthetic augmentation. They were not explorers or diplomats. They were conquerors. They were the Nezrion Horde.
 
 Within mere hours of full breach activation, Earth's orbital defenses were annihilated. The coordinated attack crippled communication arrays, disrupted artificial intelligence networks, and unleashed electromagnetic storms that rendered planetary defense grids useless. Major cities were flattened. The Moon colonies went dark. Mars outposts, once humanity’s beacon of expansion, fell completely silent. Fleet Command Omega, Earth's final military bastion, issued a distress signal that looped into the void, unanswered.
 
-Amidst the devastation, one ship survived—buried deep in a hangar beneath the Helion base. The Aegis-X, a prototype starfighter equipped with experimental weapons and high-precision maneuvering thrusters, had been offline for maintenance when the first EMP wave struck. By sheer chance—or fate—it escaped destruction. Now, reawakened in silence and surrounded by ruin, it stands as Earth’s last hope.
+Amidst the devastation, one ship survived, buried deep in a hangar beneath the Helion base. The Aegis-X, a prototype starfighter equipped with experimental weapons and high-precision maneuvering thrusters, had been offline for maintenance when the first EMP wave struck. By sheer chance or fate, it escaped destruction. Now, reawakened in silence and surrounded by ruin, it stands as Earth’s last hope.
 
 You are its pilot. There is no chain of command. No allies. No fallback. Just you, your instincts, and the Aegis-X against an alien force that is not only intelligent, but adaptive. The Nezrion are evolving with each wave.
 
@@ -92,8 +92,8 @@ You are its pilot. There is no chain of command. No allies. No fallback. Just yo
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/alien-invasion-armageddon.git
+git clone https://github.com/namoklom/alien-armageddon.git
 cd alien-invasion-armageddon
 pip install pygame
-python main.py
+python main_games.py
 ```
