@@ -18,30 +18,75 @@ The game’s structure is built around clear object-oriented principles, making 
 
 ## 🎮 Gameplay Features
 
-- 🚀 **Real-time space combat** in a top-down arena with dynamic movement and friction physics.
-- 🧪 **Alien Roles**:
-  - **Sinib (Attacker Alien)**: Red circle shaped enemy, standard attacker aliens.
-  - **Fardumun (Healer Alien)**: Green circle shaped enemy, emits a green healing pulse that regenerates allies.
-  - **Vorgulax (Tank Alien)**: Magenta polygonal shaped enemy, brute with reinforced health.
-- 🔫 **Weapon Systems**:
-  - Bullet cooldown with adjustable fire rate
-  - Powerups: `Multi-shot` & `Rapid-fire`
-- ➕ **Healing Visuals**:
-  - Unique green "+" signs indicate when a Healer restores enemy HP.
-- 💥 **Explosions**:
-  - Realistic particle effects that simulate alien deaths and collisions.
-- 🎯 **Wave-Based Difficulty Scaling**:
-  - Each wave increases enemy count and strength, logged for debugging.
-- 🧱 **Powerups**:
-  - 💚 Health Recovery
-  - ⚡ Rapid Fire (temporary)
-  - 🔫 Multi-shot Spread (temporary)
-- 🔍 **Status Display**:
-  - Score
-  - Current wave
-  - Health bar
-- 🧾 **Logging System**:
-  - Automatic logging to `/logs/` directory showing wave progression with timestamps.
+### 🚀 Core Mechanics
+- **Top-Down Real-Time Combat**  
+  Engage in fast-paced battles with dynamic movement and responsive controls.
+
+- **Physics-Based Movement**  
+  Ships and enemies follow inertia-based motion with friction and drag for a smooth arcade feel.
+
+---
+
+### 👾 Alien Types & Behaviors
+
+- **🟥 Sinib (Attacker Alien)**  
+  - Shape: Red Circle  
+  - Behavior: Standard enemy type that aggressively chases the player.
+
+- **🟩 Fardumun (Healer Alien)**  
+  - Shape: Green Circle  
+  - Behavior: Emits green healing pulses to regenerate nearby enemy health.  
+  - Visuals: Displays unique green "➕" signs when healing is triggered.
+
+- **🟪 Vorgulax (Tank Alien)**  
+  - Shape: Magenta Polygon  
+  - Behavior: Brute alien with reinforced health; absorbs heavy damage.
+
+---
+
+### 🔫 Weapon & Power-Up Systems
+
+- **Weapon Mechanics**  
+  - Adjustable bullet cooldown and customizable fire rate.
+
+- **Power-Ups**
+  - 💚 **Health Recovery** – Instantly restores player's health.  
+  - ⚡ **Rapid Fire** – Temporarily increases fire rate.  
+  - 🔫 **Multi-Shot Spread** – Temporarily enables triple-shot pattern.
+
+---
+
+### 💥 Visual & Audio Effects
+
+- **Explosions**  
+  - Particle-based effects simulate alien deaths and collisions in real-time.
+
+- **Healing Visuals**  
+  - Green "➕" particles appear when Fardumun heals other enemies.
+
+---
+
+### 🎯 Difficulty Scaling
+
+- **Wave-Based Progression**  
+  - Each wave introduces more enemies with increased strength.  
+  - Wave data is automatically logged for debugging and tracking.
+
+---
+
+### 📊 UI & Status Display
+
+- Score Counter  
+- Current Wave Indicator  
+- Dynamic Health Bar
+
+---
+
+### 🧾 Logging System
+
+- Logs game progress and wave data to a `/logs/` directory.  
+- Includes timestamps and detailed debug info per wave.
+
 
 ---
 
