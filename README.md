@@ -50,8 +50,6 @@ The game’s structure is built around clear object-oriented principles, making 
   - ⚡ **Rapid Fire** – Temporarily increases fire rate.  
   - 🔫 **Multi-Shot Spread** – Temporarily enables triple-shot pattern.
 
----
-
 ### 💥 Visual Effects
 
 - **Explosions**  
