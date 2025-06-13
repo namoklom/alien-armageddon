@@ -1,4 +1,4 @@
-# Alien Invasion: Armageddon (OOP Space Shooter with AI Alien Roles and Wave-Based Pygame Combat)
+# Alien Invasion: Armageddon (Object-Oriented Programming Space Shooter Games)
 
 ## 👤 Author
 
@@ -8,7 +8,7 @@
 
 ![Gameplay Preview](gameplay_video.gif) 
 
-**Alien Invasion: Armageddon** is a high-difficulty, object-oriented 2D space shooter designed for advanced Python developers, game enthusiasts, and AI simulation hobbyists. Built with Pygame, it demonstrates how complex gameplay mechanics, enemy intelligence, and modular code architecture can come together to form a polished and replayable arcade experience.
+**Alien Invasion: Armageddon** is an object-oriented 2D space shooter designed for advanced Python developers, game enthusiasts, and AI simulation hobbyists. Built with Pygame, it demonstrates how complex gameplay mechanics, enemy intelligence, and modular code architecture can come together to form a polished and replayable arcade experience.
 
 Unlike beginner-level shooter games, this project features distinct alien behaviors, including healing support units, tank-like enemies with polygonal bodies, and swarm attackers. It incorporates dynamic wave progression, power-up mechanics, and particle-based explosion effects that create a visually engaging and mechanically challenging environment.
 
